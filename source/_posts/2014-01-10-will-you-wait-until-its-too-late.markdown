@@ -21,5 +21,5 @@ Sometimes people ask me: what do you fear the most?
 I answer: to be caught in some kind of irreversible life-changing event and realize that I had everything and I didn't use my time wisely, until it's too late. Watch the video to understand.
 
 <div class="center">
-<iframe width="640" height="360" src="//www.youtube.com/embed/qNiyMnpy1wo?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/qNiyMnpy1wo?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
