@@ -35,7 +35,7 @@ Learn more about [Turistambul][t] at: [http://www.turistambul.com/][t].
 [Subscribe to the YouTube channel learn about future episodes easily.][i]
 
 [m]: http://www.turistambul.com/pt/#!/page_Services
-[t]: http://www.turistambul.com/pt/
+[t]: http://www.turistambul.com
 [p]: http://patriciafigueira.com.br
 [v]: http://www.viniciusteles.com.br
 [i]: http://www.youtube.com/subscription_center?add_user=CasalPartiuEng
