@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: change | Casal Partiu]]></title>
-  <link href="http://casalpartiu.com/blog/categories/change/atom.xml" rel="self"/>
+  <title><![CDATA[Category: patricia figueira | Casal Partiu]]></title>
+  <link href="http://casalpartiu.com/blog/categories/patricia-figueira/atom.xml" rel="self"/>
   <link href="http://casalpartiu.com/"/>
   <updated>2014-01-24T15:11:49-02:00</updated>
   <id>http://casalpartiu.com/</id>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Celebrating three years of Casal Partiu]]></title>
+    <link href="http://casalpartiu.com/celebrating-three-years-of-casal-partiu"/>
+    <updated>2013-12-30T23:01:00-02:00</updated>
+    <id>http://casalpartiu.com/celebrating-three-years-of-casal-partiu</id>
+    <content type="html"><![CDATA[<p>We're celebrating our third anniversary on the road on December 30th 2013. We made this video to share our story: how it all began, where we've been to, what we've learned, what kind of difficulties we faced and what we think about living like nomads.</p>
+
+<center>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/kzoKsm2bxpQ" frameborder="0" allowfullscreen></iframe>
+</center>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The origins of Casal Partiu]]></title>
