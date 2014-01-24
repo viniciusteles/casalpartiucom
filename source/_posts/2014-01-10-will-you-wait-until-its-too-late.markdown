@@ -3,11 +3,16 @@ layout: post
 permalink: /will-you-wait-until-its-too-late
 title: "Will you wait until it's too late?"
 date: 2014-01-10T13:30:00-03:00
+thumbnail: http://i1.ytimg.com/vi/bi-JBEh61Cw/maxresdefault.jpg
+description: Waiting to chase your dreams can cost you too much. What if you run out of time? Better start now.
+keywords: fear, travel, nomad, lifestyle, video, vinícius teles
 categories:
  - fear
  - travel
  - nomad
  - lifestyle
+ - video
+ - vinícius teles
 ---
 <div class="center">
   <img src="/images/too-late.jpg" height="360" width="640">

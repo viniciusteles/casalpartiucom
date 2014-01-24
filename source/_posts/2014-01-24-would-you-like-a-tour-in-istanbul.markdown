@@ -1,8 +1,11 @@
 ---
 layout: post
 permalink: /would-you-like-a-tour-in-istanbul
+thumbnail: http://i1.ytimg.com/vi/Mmz1jtE2gBc/maxresdefault.jpg
 title: Would you like a tour in Istanbul?
 date: 2014-01-24T13:30:00-03:00
+keywords: tour agency, istanbul, turkey, tourism, tourism guide, michele käfer, interview, trip, travel, travel agency, vinícius teles, video
+description: Would you like to experience Istanbul like a local? Michele Käfer lives in Istambul and can show you the best of the city.
 categories:
  - tour agency
  - istanbul
@@ -10,9 +13,12 @@ categories:
  - tourism
  - tourist guide
  - michele käfer
- - interview
  - trip
  - travel
+ - interview
+ - travel agency
+ - vinícius teles
+ - video
 ---
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/Mmz1jtE2gBc" frameborder="0" allowfullscreen></iframe>

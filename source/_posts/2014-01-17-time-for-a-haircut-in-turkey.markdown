@@ -3,11 +3,16 @@ layout: post
 permalink: /time-for-a-haircut-in-turkey
 title: Time for a haircut in Turkey
 date: 2014-01-17T13:30:00-03:00
+thumbnail: http://i1.ytimg.com/vi/-zI18JquH2w/maxresdefault.jpg
+keywords: haircut, istanbul, turkey, lifestyle, video, vinícius teles
+description: Want to know how it is like to have a haircut in Turkey? There are some special things about it.
 categories:
  - haircut
  - istanbul
  - turkey
  - lifestyle
+ - video
+ - vinícius teles
 ---
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/bi-JBEh61Cw" frameborder="0" allowfullscreen></iframe>
