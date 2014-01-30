@@ -1,0 +1,25 @@
+---
+layout: post
+permalink: /visas
+thumbnail: http://i1.ytimg.com/vi/6ZK76-J9mbM/maxresdefault.jpg
+title: Visas
+date: 2014-01-31T13:30:00-03:00
+keywords: tourism, trip, travel, visa, vinícius teles, video
+description: Many people ask us how we deal with visas as we travel the world. Here is the answer.
+categories:
+ - tourism
+ - trip
+ - travel
+ - vinícius teles
+ - video
+ - visa
+---
+<div class="center">
+<iframe width="640" height="360" src="http://www.youtube.com/embed/6ZK76-J9mbM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Many people ask us how we deal with visas as we travel the world. Here is the answer.
+
+[Subscribe to the YouTube channel learn about future episodes easily.][i]
+
+[i]: http://www.youtube.com/subscription_center?add_user=CasalPartiuEng
