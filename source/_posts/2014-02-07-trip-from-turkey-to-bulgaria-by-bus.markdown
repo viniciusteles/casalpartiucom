@@ -3,8 +3,8 @@ layout: post
 permalink: /trip-from-turkey-to-bulgaria-by-bus
 title: Trip from Turkey to Bulgaria by bus
 date: 2014-02-07T13:30:00-03:00
-keywords: trip, travel, turkey, istanbul, plovdiv, bus trip, border turkey bulgaria, tourism, vacations, airbnb, apartment in bulgaria, apartment in plovdiv, patricia figueira, vinícius teles, video
 description: We traveled from Istanbul, in Turkey, to Plovdiv, in Bulgaria. See what happens in the border and learn some curiosities about Bulgaria.
+keywords: trip, travel, turkey, istanbul, plovdiv, bus trip, border turkey bulgaria, tourism, vacations, airbnb, apartment in bulgaria, apartment in plovdiv, patricia figueira, vinícius teles, video
 categories:
  - trip
  - travel
