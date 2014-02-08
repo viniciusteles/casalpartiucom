@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /trip-from-turkey-to-bulgaria-by-bus
+thumbnail: http://i1.ytimg.com/vi/XuwjggqbVNE/maxresdefault.jpg
 title: Trip from Turkey to Bulgaria by bus
 date: 2014-02-07T13:30:00-03:00
 description: We traveled from Istanbul, in Turkey, to Plovdiv, in Bulgaria. See what happens in the border and learn some curiosities about Bulgaria.
