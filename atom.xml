@@ -4,7 +4,7 @@
   <title><![CDATA[Casal Partiu]]></title>
   <link href="http://casalpartiu.com/atom.xml" rel="self"/>
   <link href="http://casalpartiu.com/"/>
-  <updated>2014-02-08T09:09:21-02:00</updated>
+  <updated>2014-02-17T20:35:14-03:00</updated>
   <id>http://casalpartiu.com/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Visit to Plovdiv in Bulgaria]]></title>
+    <link href="http://casalpartiu.com/visit-to-plovdiv-in-bulgaria"/>
+    <updated>2014-02-14T14:30:00-02:00</updated>
+    <id>http://casalpartiu.com/visit-to-plovdiv-in-bulgaria</id>
+    <content type="html"><![CDATA[<div class="center">
+<iframe width="640" height="360" src="http://www.youtube.com/embed/XgYAhTTG684" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<p>Get to know <a href="http://wikitravel.org/en/Plovdiv">Plovdiv</a>, <a href="http://wikitravel.org/en/Bulgaria">Bulgaria</a>&#8217;s second largest city. Join us in a tour around the streets of this picturesque Bulgarian city.</p>
+
+<p><a href="http://www.youtube.com/subscription_center?add_user=CasalPartiuEng">Subscribe to the YouTube channel learn about future episodes easily.</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trip from Turkey to Bulgaria by bus]]></title>
