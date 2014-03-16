@@ -5,7 +5,7 @@ thumbnail: http://i1.ytimg.com/vi/XuwjggqbVNE/maxresdefault.jpg
 title: Trip from Turkey to Bulgaria by bus
 date: 2014-02-07T13:30:00-03:00
 description: We traveled from Istanbul, in Turkey, to Plovdiv, in Bulgaria. See what happens in the border and learn some curiosities about Bulgaria.
-keywords: trip, travel, turkey, istanbul, plovdiv, bus trip, border turkey bulgaria, tourism, vacations, airbnb, apartment in bulgaria, apartment in plovdiv, patricia figueira, vinícius teles, video
+keywords: trip, travel, turkey, istanbul, plovdiv, bus trip, border turkey bulgaria, tourism, vacations, airbnb, apartment in bulgaria, apartment in plovdiv, patricia figueira, vinícius teles, video, digital nomad
 categories:
  - trip
  - travel
@@ -23,6 +23,7 @@ categories:
  - patricia figueira
  - vinícius teles
  - video
+ - digital nomad
 ---
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/XuwjggqbVNE" frameborder="0" allowfullscreen></iframe>

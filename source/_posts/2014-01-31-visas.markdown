@@ -4,7 +4,7 @@ permalink: /visas
 thumbnail: http://i1.ytimg.com/vi/6ZK76-J9mbM/maxresdefault.jpg
 title: Visas
 date: 2014-01-31T13:30:00-03:00
-keywords: tourism, trip, travel, visa, vinícius teles, video
+keywords: tourism, trip, travel, visa, vinícius teles, video, digital nomad
 description: Many people ask us how we deal with visas as we travel the world. Here is the answer.
 categories:
  - tourism
@@ -13,6 +13,7 @@ categories:
  - vinícius teles
  - video
  - visa
+ - digital nomad
 ---
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/6ZK76-J9mbM" frameborder="0" allowfullscreen></iframe>

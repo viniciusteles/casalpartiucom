@@ -5,7 +5,7 @@ thumbnail: http://i1.ytimg.com/vi/XgYAhTTG684/maxresdefault.jpg
 title: Visit to Plovdiv in Bulgaria
 date: 2014-02-14T13:30:00-03:00
 description: Get to know Plovdiv, Bulgaria's second largest city. Join us in a tour around the streets of this picturesque Bulgarian city.
-keywords: trip, travel, plovdiv, tourism, vacations, bulgaria, plovdiv free tour, patricia figueira, vinícius teles, video
+keywords: trip, travel, plovdiv, tourism, vacations, bulgaria, plovdiv free tour, patricia figueira, vinícius teles, video, digital nomad
 categories:
  - trip
  - travel
@@ -17,6 +17,7 @@ categories:
  - patricia figueira
  - vinícius teles
  - video
+ - digital nomad
 ---
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/XgYAhTTG684" frameborder="0" allowfullscreen></iframe>
